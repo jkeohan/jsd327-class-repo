@@ -17,7 +17,11 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 ## Project Description
 
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
+Basketball!
+
+This is a game that allows you to practice basketball shots from all around the court. The game will allow you to select modes from a window. The different modes will consist of shooting ranges, basket height, shooting speed, and ball release. While it is a basketball game, IT wont quite be basketball; rather it is bouncing a ball off a board and trying to get it in the hoop. A player gets 10 shots per turn.Now the board and the ball will not be static. Before each shot, the board will slide up and down so that the angle is constantly changing. The player must press spacebar to stop the board from shifting. Next the ball will move up and down along the height of the board never going above it but capable of bouncing off the tip of the board and the same to the bottom. Lastly the player can select the the power(initial speed) of the ball. IF I HAVE TIME(If the player wants. They can position blocks on the screen to be able to trick shot off the blocks. Hitting a block will result in bonus points if the balls go in. Even if the ball does not hit the block they will get points for avoiding the block and still getting it in.
+
+
 
 ## Wireframes
 
