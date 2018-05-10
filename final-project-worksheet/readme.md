@@ -8,7 +8,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|May 1st| Project Description | Incomplete
+|May 1st| Project Description | Complete
 |May 8th| Wireframes / Priority Matrix / Functional Components | Incomplete
 |May 15th| External API(s) Decision / Core Application Structure (HTML, CSS, etc.) | Incomplete
 |May 22nd| Minimal Viable Product | Incomplete
@@ -30,6 +30,8 @@ Upload images of wireframe to cloudinary and add the link here with a descriptio
 ## Priority Matrix
 
 Include a full list of features that have been prioritized based on the `Time and Importance` Matix.  
+
+In the git as Photos
 
 ### MVP/PostMVP - 5min
 
