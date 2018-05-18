@@ -30,6 +30,7 @@ This is a game that allows you to practice basketball shots from all around the 
 ## Wireframes
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe.
+[image](Time table with Priority.JPG)
 
 ## Priority Matrix
 
